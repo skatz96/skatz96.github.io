@@ -1,0 +1,168 @@
+
+#header {
+	font-family: 'Dosis', sans-serif;
+}
+
+#aboutMe {
+
+}
+
+.aboutmeheader {
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Dosis', sans-serif;
+}
+
+.display-3 {
+	margin-top:9%;
+	margin-bottom:9%;
+	font-weight:500;
+	/*color:#FFEE58;*/
+}
+
+.bg {
+	/*background-color:#434343;*/
+}
+
+.aboutmetext {
+	margin-top:5%;
+	font-family: 'Dosis', sans-serif;
+	margin-bottom: 7%;
+
+}
+
+#experience{
+	font-size:21px;
+}
+
+.pic {
+	margin-left:14%;
+}
+
+#projects {
+	background: rgba(0, 0, 0, 0) url("../images/laptop.jpg") no-repeat;
+	background-size: cover;
+}
+
+.card {
+	background-color: rgba(36,44,56,.3);
+	border: 2px solid #FFEB3B;
+}
+
+.colLeft {
+	margin-left:auto;
+}
+
+.colRight{
+	margin-right:auto;
+}
+
+
+
+.card-text{
+	
+	margin-top: 3%;
+}
+
+
+
+.loc-col {
+	margin-right:7%;
+
+}
+
+.top-col {
+	margin-top: 10%;
+}
+
+.bottom-col {
+	margin-bottom:10%;
+}
+
+
+
+.top-row {
+	margin-bottom:7%;
+}
+.card-text {
+	color:white;
+}
+
+.fa {
+	color: white;
+	margin-top: 40px;
+}
+
+.card-p{
+	color:white;
+	padding-right:7%;
+	padding-left:7%;
+}
+
+.fa-github {
+	margin-top: 3%;
+	margin-bottom:5%;
+
+}
+
+
+.card {
+	height:400px;
+}
+
+#contact{
+	background-color:black;
+	color: white;
+}
+
+.contact {
+	padding-top:40px;
+	margin-bottom:-5px;
+}
+
+.contact-github {
+	margin-right:10%;
+}
+
+.navbar-brand {
+	border:2px solid #FFEB3B;
+	padding:5px;
+	border-radius: 6%;
+}
+
+.fa-envelope {
+	color:white;
+	margin-left:30%;
+	margin-right:5%;
+}
+
+.footer-icon {
+	
+    text-align: center;
+    vertical-align: bottom;
+}
+
+
+.fa-github {
+	margin-right:5%;
+}
+
+.fa-shopping-bag {
+	margin-bottom:10px;
+}
+
+
+
+.contact {
+	font-family: 'Dosis', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
