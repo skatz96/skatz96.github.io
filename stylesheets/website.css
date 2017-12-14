@@ -187,7 +187,14 @@
 }
 
 
+/** mobile responsive css **/
+@media(max-width: 746px) {
+	.fa-envelope {
+		margin-left:-3.5%;
+		margin-right:5%;
+	}
 
+}
 
 
 
